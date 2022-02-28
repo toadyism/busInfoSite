@@ -8,7 +8,6 @@ public class BusinfoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BusinfoApplication.class, args);
-		System.out.print("obj");
 	}
 
 }
